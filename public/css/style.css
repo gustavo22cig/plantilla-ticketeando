@@ -593,11 +593,12 @@ EVENTOS
   background: url(../img/guitarra2.webp);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: 100% ;
+  background-size: cover ;
   width: 100%;
   height: 400px;
   display: flex;
    align-items: center;
+   background-attachment: fixed;
 }
 .clubs-contacto{
   background: url(../img/003.webp);
